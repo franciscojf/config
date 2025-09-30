@@ -1,6 +1,14 @@
 # Configuration specifications
 
-This are the configurations I use across my different machines.
+This are the configurations I use across my different machines. Instructions to
+use the following configs after cloning the repository you can create symbolic
+links for each of the files or folders to keep the latest repo changes.
+
+```
+  ln -s config/nvim ~/.config/nvim
+
+  ln -s config/.tmux.config ~
+```
 
 ## Pre-Requisites
 
